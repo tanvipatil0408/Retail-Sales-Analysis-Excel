@@ -6,7 +6,7 @@ Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts & Graphs
-- 
+  
 Analysis Performed
 - Total Sales by Region
 - Total Profit by Category
